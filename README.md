@@ -23,7 +23,8 @@
 <!-- TABLE OF CONTENTS -->
 <h3 align="center">Table of Contents</h3>
 
-[![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](#check-it-out)
+<hr />
 
 <!--
 
@@ -46,7 +47,8 @@
 -->
 
 <!-- ABOUT THIS PROJECT -->
-## Why HOFai ?
+<h3 align="center" id="check-it-out">WHy HOFai ???</h3>
+<hr />
 
 
 
