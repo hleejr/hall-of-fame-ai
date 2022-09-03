@@ -24,9 +24,6 @@
 <h3 align="center">Table of Contents</h3>
 
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](#check-it-out)
-<a href="#check-it-out">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-</a>
 <!--
 
 <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
@@ -49,8 +46,18 @@
 
 <!-- ABOUT THIS PROJECT -->
 <h3 id="check-it-out">WHy HOFai ???</h3>
-<p></p>
 <hr />
+<p></p>
+
+<!-- PROJECT ENVIRONMENT -->
+<h3 id="check-it-out">HOFai's Toolkit</h3>
+<hr />
+<h5>Here are the tools that were used to create HOFai's various features:</h5>
+<p>
+    <a href="https://www.python.org" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    </a>
+</p>
 
 
 
