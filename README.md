@@ -24,7 +24,9 @@
 <h3 align="center">Table of Contents</h3>
 
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](#check-it-out)
-
+<a href="#check-it-out">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+</a>
 <!--
 
 <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
@@ -47,7 +49,7 @@
 
 <!-- ABOUT THIS PROJECT -->
 <h3 id="check-it-out">WHy HOFai ???</h3>
-<p>bbbbbadfjlkajflkdajfjadkljflksdjlkfdjfdlkajflkdjdakfjklajdflkjdakljflkadjflkjadslkjfkladjfkljadkfjaldjfsklajkfjdakljflkadsjfkldajfkljdsakjfaklsdjfkljasdklfjadslkjfadskljfdklajfkldjakljklfjakljdfkldajfkljakldjfklajdsflkjadsklfjdsalkjfdskljfdsalkjfdkljfsdlkjfalkdsjfkldsjfkldsajfkldsjaklfjldkasjfkladsjflkjdsaklfjadskljfkdslajfkldsjafkldsjfdksljfdskljfkldajfkldjklajfkladsjkldajflkjdfakljfdklsajfdsklajfkljfadslkjfdsklajfdkljfadkljfdsalkfjakljfkladjklfjakldfjakdlsjfasdkljfkladsjfkldjsaklfjadslfkjasdlkfjklasdjfkldsajflkadjfkldsajfklasdjfkldsajfkldsajfkldsajfdklfkladjdfsklajfdlkfjlklefakljfklsdajklfjasklfjalskdjflkdsajfkldsajfklasdjfkldsasfjdsalkfj</p>
+<p></p>
 <hr />
 
 
