@@ -24,7 +24,9 @@
 <h3 align="center">Table of Contents</h3>
 
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](#why-hofai)
-[![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](#hofais-toolkit)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](#hofais-toolkit)
+[![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](#hofai-data-mining-schedule)
+[![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)]()
 <hr />
 
 <!-- ABOUT THIS PROJECT -->
@@ -43,6 +45,10 @@ One of the greatest debates that happens among sports fan is whether or not thei
 </p>
 
 <!-- (misc) DATA COLLECTION SCHEDULE -->
+## HOFai Data Mining Schedule
+
+<h5>Data is useless if it isn't kept clean and current!</h5>
+
 Data Type | Source | Collection Date
 --------- | ------ | ---------------
 All ABA and NBA player career statistics | [Basketball Reference](https://www.basketball-reference.com/players/) | ...
