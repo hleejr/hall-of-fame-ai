@@ -18,12 +18,13 @@
 <h3 align="center">Hall of Fame AI</h3>
 
 <h5 align="center">Database of major league sports players' statistics with hall of fame predictive analysis driven by machine-learning algorithms</h5>
-<hr />
+<hr style="border-top: 2px dotted black"/>
 
 <!-- TABLE OF CONTENTS -->
 <h3 align="center">Table of Contents</h3>
 
-[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](#check-it-out)
+[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](#why-hofai)
+[![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](#hofais-toolkit)
 <!--
 
 <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
@@ -45,13 +46,10 @@
 -->
 
 <!-- ABOUT THIS PROJECT -->
-<h3 id="check-it-out">WHy HOFai ???</h3>
-<hr />
-<p></p>
+## Why HOFai
 
 <!-- PROJECT ENVIRONMENT -->
-<h3 id="check-it-out">HOFai's Toolkit</h3>
-<hr />
+## HOFai's Toolkit
 <h5>Here are the tools that were used to create HOFai's various features:</h5>
 <p>
     <a href="https://www.python.org" target="_blank"> 
