@@ -18,48 +18,29 @@
 <h3 align="center">Hall of Fame AI</h3>
 
 <h5 align="center">Database of major league sports players' statistics with hall of fame predictive analysis driven by machine-learning algorithms</h5>
-<hr style="border-top: 2px dotted black"/>
+<hr />
 
 <!-- TABLE OF CONTENTS -->
 <h3 align="center">Table of Contents</h3>
 
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](#why-hofai)
 [![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](#hofais-toolkit)
-<!--
-
-<summary><h2 style="display: inline-block">Table of Contents</h2></summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
-  </ol>
-
--->
+<hr />
 
 <!-- ABOUT THIS PROJECT -->
 ## Why HOFai
 
+One of the greatest debates that happens among sports fan is whether or not their favorite players made enough of an impression on their respective leagues to be considered being inducted into the hall of fame. There are many notable athletes who have been inducted to the halls of their respective sports: Michael Jordan, Dawn Staley, Hank Aaron, Tamika Catchings, and Wayne Gretsky just to name a few. However, there is an almost unprecedented number of super talented athletes who have yet to be inducted into the hall. This does not mean that they will not in the future, as there are new inductions every year. However, what determines when you get inducted, if you are getting an induction at all? The objective of this research experiment is to identify which factors most heavily influence whether or not an athlete will be inducted into the hall of fame in their respective league. The goal is to use statistical analysis to identify the most influential determining factors and ultimately use machine learning algorithms to predict a percentage of how likely players are to be inducted into their league's hall of fame. 
+
 <!-- PROJECT ENVIRONMENT -->
 ## HOFai's Toolkit
+
 <h5>Here are the tools that were used to create HOFai's various features:</h5>
 <p>
     <a href="https://www.python.org" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     </a>
 </p>
-
-
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
