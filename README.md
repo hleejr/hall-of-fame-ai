@@ -42,6 +42,11 @@ One of the greatest debates that happens among sports fan is whether or not thei
     </a>
 </p>
 
+<!-- (misc) DATA COLLECTION SCHEDULE -->
+Data Type | Source | Collection Date
+--------- | ------ | ---------------
+All ABA and NBA player career statistics | [Basketball Reference](https://www.basketball-reference.com/players/) | ...
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/hleejr/hall-of-fame-ai.svg?style=for-the-badge
