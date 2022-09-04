@@ -27,7 +27,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](#hofais-toolkit)
 [![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](#hofai-data-mining-schedule)
 [![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)]()
-<hr />
+<br />
 
 <!-- ABOUT THIS PROJECT -->
 ## Why HOFai
@@ -64,4 +64,4 @@ All ABA and NBA player career statistics | [Basketball Reference](https://www.ba
 [issues-shield]: https://img.shields.io/github/issues/hleejr/hall-of-fame-ai.svg?style=for-the-badge
 [issues-url]: https://github.com/hleejr/hall-of-fame-ai/issues
 [license-shield]: https://img.shields.io/github/license/hleejr/hall-of-fame-ai.svg?style=for-the-badge
-[license-url]: https://github.com/hleejr/hall-of-fame-ai/blob/main/LICENSE.txt
+[license-url]: https://github.com/hleejr/hall-of-fame-ai/blob/main/LICENSE.txtd
