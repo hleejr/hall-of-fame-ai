@@ -60,7 +60,7 @@ One of the greatest debates that happens among sports fan is whether or not thei
 
 Data Type | Source | Collection Date
 --------- | ------ | ---------------
-All ABA and NBA player career statistics | [Basketball Reference](https://www.basketball-reference.com/players/) | ...
+All ABA and NBA player career statistics | [Basketball Reference](https://www.basketball-reference.com/players/) | 09 / 04 / 22
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
