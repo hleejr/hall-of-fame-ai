@@ -26,7 +26,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](#why-hofai)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](#hofais-toolkit)
 [![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](#hofai-data-mining-schedule)
-[![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)]()
+[![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](#)
 <br />
 
 <!-- ABOUT THIS PROJECT -->
