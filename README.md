@@ -42,6 +42,15 @@ One of the greatest debates that happens among sports fan is whether or not thei
     <a href="https://www.python.org" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     </a>
+    <a href="https://jupyter.org/" target="_blank"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width="40" height="40"/>
+    </a>
+    <a href="https://beautiful-soup-4.readthedocs.io/en/latest/" target="_blank"> 
+        <img src="https://linuxteaching.com/storage/img/images_4/beautiful_soup_python.png" alt="Beautiful Soup" width="40" height="40"/>
+    </a>
+    <a href="https://pandas.pydata.org/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/earthinversion/earthinversion-images/main/images/pandas-python.png" alt="Pandas" width="40" height="40"/>
+    </a>  
 </p>
 
 <!-- (misc) DATA COLLECTION SCHEDULE -->
