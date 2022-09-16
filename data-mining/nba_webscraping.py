@@ -69,15 +69,16 @@ def scrape_player(url):
             
         return player_df
     
-# using multiprocess to speed up scraping and data transformation -- 9m50s
+# using multiprocess to speed up scraping and data transformation
 
-links = get_links()
+links = get_links() # Runtime: ~8 seconds
+
 with Pool(10) as p:
-    records = p.map(scrape_player, links)
+    records = p.map(scrape_player, links) 
     
 all_player_stats = pandas.DataFrame()
 for record in records:
-    all_player_stats = pandas.concat([all_player_stats,record], axis=0, ignore_index=True)
+    all_player_stats = pandas.concat([all_player_stats,record], axis=0, ignore_index=True) # Runtime: ~9m 50sec
     
 all_player_stats.sample(100)
 # all_player_stats.to_csv("dirty_aba_nba_players.csv")
