@@ -1,4 +1,4 @@
-# hall-of-fame-ai
+<h1><a href='https://hofai.herokuapp.com/'>hofai.herokuapp.com</a></h1>
  
 <!-- PROJECT SHIELDS -->
 [![Contributors][contributors-shield]][contributors-url]
