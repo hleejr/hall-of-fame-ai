@@ -1,7 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
 import { useState, useEffect } from 'react';
-import { Testing } from './components/testing';
+import { Navbar } from './components/navbar';
+import { Route, Routes } from 'react-router-dom';
+import { Home } from './pages/home'
+import { Testpage } from './pages/testpage'
 
 function App() {
 
@@ -16,18 +19,24 @@ function App() {
     .then(error => console.log(error))
   }, []) 
 
+  console.log(window.location.pathname)
+
   return (
-    <div className="App">
+    <div>
+      <Navbar />
       <header className="App-header">
+        <Routes>
+          <Route path='/' element={<Home />} />
+          <Route path='/testing' element={<Testpage />} />
+        </Routes>
         <img src={logo} className="App-logo" alt="logo" />
-        <Testing prop={state}/>
         <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React.
+          {state.testing}
         </a>
       </header>
     </div>
