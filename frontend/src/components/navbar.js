@@ -1,36 +1,22 @@
 import React from "react"
 import { Link } from "react-router-dom"
 import { useMatch, useResolvedPath } from "react-router-dom"
+import { NavBar, List } from "../styles/navbar"
 
 export const Navbar = () => {
 
-    const navStyles = {
-        backgroundColor: '#61DBFB',
-        display: 'flex',
-        justifyContent: 'space-between',
-        alignItems: 'center',
-        gap: '2rem',
-        paddingLeft: '1rem',
-        paddingRight: '1rem',
-        textDecoration: 'none'
-    }
-
-    const listStyles = {
-        listStyleType:'none',
-        display: 'flex',
-    }
-
     return (
-        <nav style={navStyles}>
-            <Link style={{fontSize: '2rem'}} to="/" className="site-title">hofAI</Link>
-            <ul style={listStyles}>
+        <NavBar>
+            <Link style={{fontSize: '2rem'}} to="/">hofAI</Link>
+            <List>
                 <li><CustomLink to="/testing">Testing</CustomLink></li>
-            </ul>
-        </nav>
+            </List>
+        </NavBar>
     )   
 }
 
 function CustomLink({ to, children, ...props }) {
+
     const resolvedPath = useResolvedPath(to)
     const isActive = useMatch({ path: resolvedPath.pathname, end: true })
   
@@ -41,4 +27,4 @@ function CustomLink({ to, children, ...props }) {
         </Link>
       </li>
     )
-  }
+}
