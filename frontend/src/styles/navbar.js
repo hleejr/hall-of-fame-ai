@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 
 export const NavBar = styled.nav`
-    padding: 0.5em 1em;
+    padding: 0 1em;
     display: flex;
     align-items: center;
     background-color: #61DBFB;
